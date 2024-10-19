@@ -79,27 +79,6 @@
   ],
   "burgers": [
     {
-      "id": "021d",
-      "nome": "mclovin",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        1,
-        4
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "0dce",
-      "nome": "asxdad",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        4
-      ],
-      "status": "Solicitado"
-    },
-    {
       "id": "bc31",
       "nome": "asxdad",
       "carne": "Maminha",
@@ -127,6 +106,28 @@
       "opcionais": [
         "Bacon",
         "Pepino"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "91b5",
+      "nome": "ada",
+      "carne": "Veggie burger",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "a6a5",
+      "nome": "luiz ",
+      "carne": "Veggie burger",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Salame",
+        "Bacon"
       ],
       "status": "Solicitado"
     }
