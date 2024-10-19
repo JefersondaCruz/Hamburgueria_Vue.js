@@ -107,17 +107,7 @@
       "opcionais": [
         4
       ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "439c",
-      "nome": "gg",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        1
-      ],
-      "status": "Solicitado"
+      "status": "Em produção"
     },
     {
       "id": "6bad",
@@ -127,7 +117,7 @@
       "opcionais": [
         4
       ],
-      "status": "Solicitado"
+      "status": "Finalizado"
     },
     {
       "id": "2312",
